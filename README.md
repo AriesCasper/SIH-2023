@@ -153,7 +153,7 @@ Copy code
 +-------------------+         +-----------------------+  
 Installation
 Clone the Repository:
-git clone https://github.com/AriesCasper/avalanche-detection.git  
+git clone  
 cd avalanche-detection  
 
 Install Dependencies:
